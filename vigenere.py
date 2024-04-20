@@ -51,7 +51,6 @@ def descifrar_cesar(texto_cifrado, clave):
             # Mantener los caracteres que no son letras
             texto_descifrado += char
     return texto_descifrado
-
 # Ejemplo de uso
 texto_cifrado = "OmyemIehVBSkTmZzEa"
 clave = "Vinagre"
